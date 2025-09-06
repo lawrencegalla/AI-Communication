@@ -1,7 +1,8 @@
 
   # AI Communication Assistant Prototype
 
-  This is a code bundle for AI Communication Assistant Prototype. The original project is available at https://www.figma.com/design/9HknollPn72KnfqRCloLPY/AI-Communication-Assistant-Prototype.
+  This is a code bundle for AI Communication Assistant Prototype. The original project is available at 
+  https://notify-hope-26627776.figma.site/.
 
   ## Running the code
 
